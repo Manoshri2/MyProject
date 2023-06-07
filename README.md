@@ -3,10 +3,6 @@ spring-boot-microservices -  Learning the Basic of Spring Cloud
 
 Copyright (c) 2019, [WaheedTechblog](http://www.waheedtechblog.com/).
 
-Contributor: Abdul Waheed [abdulwaheed18@gmail.com]
-
-[https://github.com/abdulwaheed18/spring-boot-microservices](https://github.com/abdulwaheed18/spring-boot-microservices)
-
 **spring-boot-microservices** will covers most of the spring cloud fundamentals.
 
 ## Topic covered  <-->  Application Mapped
